@@ -1,0 +1,50 @@
+Category,Expected Filename
+Supervised Learning,supervised-learning.md
+Unsupervised Learning,unsupervised-learning.md
+Reinforcement Learning,reinforcement-learning.md
+Neural Network Architectures,neural-network-architectures.md
+Optimization Algorithms,optimization-algorithms.md
+Hyperparameter Tuning,hyperparameter-tuning.md
+Model Deployment,model-deployment.md
+Feature Engineering,feature-engineering.md
+Dimensionality Reduction,dimensionality-reduction.md
+Regularization Techniques,regularization-techniques.md
+Model Interpretability,model-interpretability.md
+AutoML Frameworks,automl-frameworks.md
+Bayesian Methods in AI,bayesian-methods-in-ai.md
+Sequence Modeling,sequence-modeling.md
+Scalability in AI,scalability-in-ai.md
+Graph Neural Networks,graph-neural-networks.md
+Self-Supervised Learning,self-supervised-learning.md
+AI Model Compression,ai-model-compression.md
+Federated Learning,federated-learning.md
+Edge AI,edge-ai.md
+Few-Shot Learning,few-shot-learning.md
+Transfer Learning,transfer-learning.md
+Neuro-Symbolic AI,neuro-symbolic-ai.md
+Multi-Agent Systems,multi-agent-systems.md
+Evolutionary Algorithms,evolutionary-algorithms.md
+Contrastive Learning,contrastive-learning.md
+Meta-Learning,meta-learning.md
+Zero-Shot Learning,zero-shot-learning.md
+Graph-Based Learning,graph-based-learning.md
+Explainable AI (XAI),explainable-ai-xai.md
+Data Augmentation Techniques,data-augmentation-techniques.md
+Adversarial Learning,adversarial-learning.md
+Self-Learning AI,self-learning-ai.md
+Tokenization in NLP,tokenization-in-nlp.md
+Quantum Machine Learning,quantum-machine-learning.md
+Causal Inference in AI,causal-inference-in-ai.md
+Optimization in Reinforcement Learning,optimization-in-reinforcement-learning.md
+AI in Embedded Systems,ai-in-embedded-systems.md
+Deep Reinforcement Learning,deep-reinforcement-learning.md
+Multimodal Learning,multimodal-learning.md
+Dynamic Graph Networks,dynamic-graph-networks.md
+AI in Drug Discovery,ai-in-drug-discovery.md
+Generative Adversarial Networks (GANs),generative-adversarial-networks-gans.md
+Bayesian Deep Learning,bayesian-deep-learning.md
+Neural Architecture Search,neural-architecture-search.md
+Cross-Lingual NLP,cross-lingual-nlp.md
+AI for Time Series Forecasting,ai-for-time-series-forecasting.md
+Large Language Models (LLMs),large-language-models-llms.md
+AI in Scientific Computing,ai-in-scientific-computing.md
